@@ -14,7 +14,7 @@ import io.cucumber.testng.CucumberOptions;
 			},
 			
 			monochrome=true,
-			tags="@hemanth")
+			tags="@TestCase2")
 	
 	
 	public class TestRunner extends AbstractTestNGCucumberTests{ 
